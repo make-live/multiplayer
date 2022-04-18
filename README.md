@@ -9,6 +9,7 @@ Useful for testing applications and worlds.  Dedicated server(s) would need to b
 It currently offers the following high level setup:
 
 * C++ Unreal Engine project exposing functionallity to Blueprints as much as possible
+* [Pixel Streaming Plugin Enabled](https://docs.unrealengine.com/5.0/en-US/pixel-streaming-in-unreal-engine/)
 * [Unreal Engine Gameplay Ability System](https://docs.unrealengine.com/5.0/en-US/gameplay-ability-system-for-unreal-engine/)
 * [Huge 2KM x 2KM Map using World Partition](https://docs.unrealengine.com/5.0/en-US/world-partition-in-unreal-engine/)
 * [Online Subsystem Implementaion (NULL by default)](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Online/)
