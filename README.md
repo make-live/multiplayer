@@ -12,7 +12,7 @@ It currently offers the following high level setup:
 * [Pixel Streaming Plugin Enabled](https://docs.unrealengine.com/5.0/en-US/pixel-streaming-in-unreal-engine/)
 * [Unreal Engine Gameplay Ability System](https://docs.unrealengine.com/5.0/en-US/gameplay-ability-system-for-unreal-engine/)
 * [Huge 2KM x 2KM Map using World Partition](https://docs.unrealengine.com/5.0/en-US/world-partition-in-unreal-engine/)
-* [Online Subsystem Implementaion (NULL by default)](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Online/)
+* [Online Subsystem Implementation (NULL by default)](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Online/)
 
 **Folders / Structure:**
 
@@ -23,6 +23,3 @@ It currently offers the following high level setup:
 **Deployed Example on Make Live:**
 
 [https://launch.make.live/make-live/open-world](https://launch.make.live/make-live/open-world)
-
-
-
