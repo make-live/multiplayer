@@ -6,13 +6,13 @@ The template implements a multiplayer example deployable that can be deployed to
 
 Useful for testing applications and worlds.  Dedicated server(s) would need to be rolled out in order to support mass amounts of players and persistent sessions. Watch this space for how we want to make this easy for people using the Make Live platform.
 
-It currently offers the following high level setup:
+Template Features Include:
 
-* C++ Unreal Engine project exposing functionallity to Blueprints as much as possible
-* [Pixel Streaming Plugin Enabled](https://docs.unrealengine.com/5.0/en-US/pixel-streaming-in-unreal-engine/)
-* [Unreal Engine Gameplay Ability System](https://docs.unrealengine.com/5.0/en-US/gameplay-ability-system-for-unreal-engine/)
-* [Huge 2KM x 2KM Map using World Partition](https://docs.unrealengine.com/5.0/en-US/world-partition-in-unreal-engine/)
-* [Online Subsystem Implementation (NULL by default)](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Online/)
+- C++ Unreal Engine project exposing functionallity to Blueprints as much as possible
+- [Unreal Engine Pixel Streaming Plugin Enabled](https://docs.unrealengine.com/5.0/en-US/pixel-streaming-in-unreal-engine/)
+- [Unreal Engine Gameplay Ability System](https://docs.unrealengine.com/5.0/en-US/gameplay-ability-system-for-unreal-engine/)
+- [Unreal Engine 2KM x 2KM Map using World Partition](https://docs.unrealengine.com/5.0/en-US/world-partition-in-unreal-engine/)
+- [Unreal Engine Online Subsystem Implementation (NULL by default)](https://docs.unrealengine.com/5.0/en-US/online-subsystem-in-unreal-engine/)
 
 **Folders / Structure:**
 
