@@ -2,9 +2,9 @@
 
 An evolving template to allow teams the ability to test out multiplayer Pixel Streaming applications and worlds.
 
-The template implements a multiplayer example deployable that can be deployed to Make Live. As Unreal Engine instances are deployed within the same private network (when uploaded using Make Live) game sessions can be seen by each other.
+Only works if Unreal Engine instances are deployed within the same private network so that game sessions can be seen by each other using the NULL subsystem.
 
-Useful for testing applications and worlds.  Dedicated server(s) would need to be rolled out in order to support mass amounts of players and persistent sessions. Watch this space for how we want to make this easy for people using the Make Live platform.
+Useful for testing applications and worlds locally.  Use Steam or other online subsystems for production, dedicated server(s) would need to be rolled out in order to support mass amounts of players and persistent sessions. Watch this space for how we want to make this easy for people using the Make Live platform.
 
 Template Features Include:
 
